@@ -1,0 +1,85 @@
+{
+    "activities": [
+        {
+            "name": "AutoTimer-master \u2013 screen_tracker.py",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2023-05-21 22:08:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2023-05-21 22:08:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-05-21 22:08:56"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer-master \u2013 act_tracker.py",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2023-05-21 22:08:35"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-05-21 22:08:53"
+                }
+            ]
+        },
+        {
+            "name": "drive.google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:08:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-05-21 22:08:55"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer-master \u2013 activities.json",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-21 22:09:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2023-05-21 22:08:57"
+                }
+            ]
+        }
+    ]
+}
